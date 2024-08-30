@@ -25,6 +25,7 @@ This Python application implements a simple version of the classic card game Bla
 - Tkinter library (usually included in Python installations)
 
 - ## use the Python 3.11.6.bat to install pet python
+[Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
   ##  remember to add python.exe to path
 
 ## Installation
