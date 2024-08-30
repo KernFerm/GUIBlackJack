@@ -4,8 +4,6 @@
 
 -----
 
-
-
 # Blackjack Game
 
 This Python application implements a simple version of the classic card game Blackjack. The game features a graphical user interface (GUI) built using the Tkinter library.
@@ -24,9 +22,11 @@ This Python application implements a simple version of the classic card game Bla
 - Python 3.x
 - Tkinter library (usually included in Python installations)
 
-- ## use the Python 3.11.6.bat to install pet python
-[Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
-  ##  remember to add python.exe to path
+### If you dont have a pet python here is a couple below:
+- **YOU ONLY NEED ONLY VERSION OF PYTHON TO RUN THIS !!**
+- [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
+- [Python 3.11.9](https://github.com/KernFerm/Py3.11.9installer)
+- [Python 3.12.1](https://github.com/KernFerm/Py3.12.1-installer-batch)
 
 ## Installation
 
