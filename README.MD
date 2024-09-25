@@ -1,3 +1,8 @@
+## Support the Project ⭐
+
+If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
+
+
 # 🃏 Blackjack Game
 
 This Python application implements a simple version of the classic card game **Blackjack**. The game features a graphical user interface (GUI) built using the **Tkinter** library.
